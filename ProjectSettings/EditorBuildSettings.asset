@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScene.unity
+    guid: 840f27f7cd1bbd54984b188f0d9e935f
+  - enabled: 1
+    path: Assets/Scenes/DailyQuest.unity
+    guid: 272639f66dd657a41af5299fdd45c399
+  - enabled: 1
+    path: Assets/Scenes/Inventory.unity
+    guid: 03110f79c8a7aa242abad48b2e63c5fe
+  - enabled: 1
+    path: Assets/Scenes/Leaderboard.unity
+    guid: b43417e72b962d149968ee836b004501
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: a976b56ebcd47d44084662cc430067e2
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 2ac804222499d7f4eac6f6dd233adffe
+  - enabled: 1
+    path: Assets/Scenes/Clan.unity
+    guid: 9cacdebdf84877c489e57a545378e0a3
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 57972d4c3ead04841b7b5a0a14ea9d0a
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 8b221ca2eb403df4092bc42444e79c70
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 2d807dcd0a88f0c4093f892c0eb525d0, type: 2}
